@@ -4,7 +4,7 @@
 ## Room 5 Fact File ##
 
 NAME: Room 5
-PEOPLE: CHILDREN      ADULTS
+PEOPLE: CHILDREN (23) ADULTS (5)
         Nawar A.      Ms. Bates
         Roop B.       Mrs. Cooper (formerly Ms. Raffa)
         Nassim B.     Mr. David
