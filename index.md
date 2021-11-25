@@ -17,3 +17,4 @@ PEOPLE: CHILDREN (23) ADULTS (5)
         Tej V.
         Bruno Z.
 ```
+- [Bruno's Fact File](fact-file/bruno.txt)
